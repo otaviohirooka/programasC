@@ -1,0 +1,21 @@
+/*  
+    URI Online Judge - 2759 - "Entrada e saída de caracteres"
+    Autor.....: Otávio Luiz de Biaggi Hirooka
+    Observação: caracteres
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+ 
+int main() {
+	
+    char a, b, c;
+
+    scanf(" %c %c %c", &a, &b, &c);
+    printf("A = %c, B = %c, C = %c\n", a, b, c);
+    printf("A = %c, B = %c, C = %c\n", b, c, a);
+    printf("A = %c, B = %c, C = %c\n", c, a, b);
+
+    return 0;
+
+}
