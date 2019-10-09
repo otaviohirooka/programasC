@@ -1,5 +1,6 @@
 /*
 Disciplina Estrutura de Dados - ADS - FATEC Sorocaba
+Segundo semestre de 2019
 
 Nome: Otávio Luiz de Biaggi Hirooka
 
